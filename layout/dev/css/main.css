@@ -8,7 +8,9 @@ body, html {
 }
 .header-wrap{
 	padding-top: 250px !important;
-	background: rgba(351,98,78,.87);
+	background: rgba(351,98,78,.47);
+	transition: background 0.5s ease;
+	-webkit-transition: background 0.5s ease;
 }
 .h3-title {
   position: relative;
@@ -34,5 +36,6 @@ body, html {
 @media (min-width: 768px) {
 	.header-wrap{
 		width: 50%;
+		background: rgba(351,98,78,.87);
 	}
 }
