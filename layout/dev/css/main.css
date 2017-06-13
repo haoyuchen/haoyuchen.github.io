@@ -40,7 +40,9 @@ blockquote{
 	background: url(https://images.unsplash.com/photo-1445645001947-cc3b794d8a01?dpr=2&auto=format&fit=crop&w=1500&h=1001&q=80&cs=tinysrgb&crop=&bg=) center no-repeat;
 	background-size: cover;
 }
-
+.bg-blue{
+	background: #0486DD;
+}
 .bg-white-op2{
 	background: rgba(255,255,255,.2);
 	border-top: 5px solid #FFF9FB;
