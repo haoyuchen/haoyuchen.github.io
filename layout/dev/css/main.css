@@ -1,6 +1,9 @@
 body, html {
   font-family: 'Orbitron', Arial, sans-serif;
 }
+blockquote{
+	margin: 0 1.5rem;
+}
 .header {
   height: 500px;
   background: url('/layout/img/ff2.jpg') left center no-repeat;
