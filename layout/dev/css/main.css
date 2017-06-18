@@ -63,9 +63,6 @@ blockquote{
 }
 
 @media (min-width: 768px) {
-	.header{
-		background-image: url('/layout/img/ff2.jpg');
-	}
 	.header-wrap{
 		width: 50%;
 		background: rgba(351,98,78,.87);
